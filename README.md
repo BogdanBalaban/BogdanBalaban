@@ -1,38 +1,38 @@
-# 👋 Ciao! Sono Bogdan Balaban
+# 👋 Hi there! I'm Bogdan Balaban
 
-🎓 Studente presso l'Istituto Francesco Severi di Padova (Veneto, Italia), indirizzo Informatica.  
-💡 Appassionato di tecnologia, programmazione e sviluppo web.  
-📚 Attualmente sto studiando e praticando diversi linguaggi e tecnologie.
+🎓 I'm a student at Francesco Severi High School in Padua, Veneto (Italy), specializing in Computer Science.  
+💡 Passionate about technology, coding, and web development.  
+📚 Currently learning and experimenting with multiple programming languages and technologies.
 
 ---
 
-## 💻 Competenze
+## 💻 Skills
 
-Durante il mio percorso scolastico ho acquisito competenze in:
+Through my education, I've worked with:
 
 - 🟨 Java
 - 🌐 HTML, CSS, JavaScript
 - 🐍 Python
 
-Sto continuando ad approfondire questi linguaggi e ad applicarli in progetti scolastici e personali.
+I'm constantly improving my skills and applying them in both school and personal projects.
 
 ---
 
-## 🚀 Obiettivi
+## 🚀 Goals
 
-- Migliorare le mie abilità nella programmazione orientata agli oggetti
-- Imparare a usare framework moderni come React o Spring Boot
-- Contribuire a progetti open-source su GitHub
-- Creare un portfolio con i miei progetti migliori
-
----
-
-## 📫 Contatti
-
-- 📍 Padova, Veneto, Italia
-- ✉️ bogdanbalaban19@gmail.com
-- 🌐 (Portfolio in arrivo!)
+- Improve my object-oriented programming skills  
+- Learn modern frameworks like React and Spring Boot  
+- Contribute to open-source projects on GitHub  
+- Build a personal portfolio showcasing my best work  
 
 ---
 
-> *"Il codice è poesia, e io sto ancora imparando a scrivere le mie prime righe."*
+## 📫 Contact
+
+- 📍 Padua, Veneto, Italy  
+- ✉️ bogdanbalaban19@gmail.com 
+- 🌐 (Portfolio coming soon!)
+
+---
+
+> *"Code is poetry, and I'm still learning how to write my first lines."*
